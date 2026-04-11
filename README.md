@@ -12,7 +12,7 @@
 
 ## 🧠 About Me
 ```diff
-+ I don’t just learn code — I build with it
+ ----------------Coding life------------------
 🎓 Studying Software Development
 👨‍🏫 Tutor at Rosebank College(Programming & Design)
 💻 Passionate about building real-world systems
