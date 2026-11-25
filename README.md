@@ -29,22 +29,7 @@
   <img src="https://img.shields.io/badge/CSS-0d1117?style=for-the-badge&logo=css3&logoColor=f5a524" />
 </p>
 
-## 🚀 Featured Projects
 
-### StudyFlow (Student Assignment Tracker)
-A full-stack assignment tracker built with ASP.NET Core MVC and Web API on SQL Server Express.
-**Stack:** C#, ASP.NET Core MVC, Web API, EF Core, SQL Server
-🔗 [View repository](https://github.com/Tshabadira/REPO-NAME)
-
-### RaceDay
-An event management platform with a relational database design and role-based user interfaces.
-**Stack:** SQL Server, ASP.NET, HTML, CSS, JavaScript
-🔗 [View repository](https://github.com/Tshabadira/REPO-NAME)
-
-### PROJECT NAME
-One line on what it does and who it is for.
-**Stack:** list the main technologies
-🔗 [View repository](https://github.com/Tshabadira/REPO-NAME)
 
 ## 📊 GitHub Stats
 
@@ -54,9 +39,9 @@ One line on what it does and who it is for.
 
 ## 📫 Contact
 
-- 📧 Email: YOUR-EMAIL@example.com
-- 💼 LinkedIn: [your-profile](https://www.linkedin.com/in/YOUR-PROFILE)
-- 📄 CV: [Download my CV](LINK-TO-YOUR-CV)
+- 📧 Email: tshabadira077@gmail.com
+- 💼 LinkedIn: [www.linkedin.com/in/lazarus-motsalane-5b7743312)
+
 
 <!-- FOOTER -->
 <p align="center">
